@@ -1,10 +1,9 @@
 # Nmap utility (MacOS)
 
 ### Description
-is a logging utility designed for use in **Shell** scripts.
+Shellog is a logging utility designed for use in **Shell** scripts.
 It is designed to write messages to a log file with support for different logging levels (INFO, ALERT, ERROR),
-and to output logs to the terminal with color highlighting depending on the logging level. In case of output to a file,
-the logger automatically records messages with timestamp, operating system and public IP address.
+and to output logs to the terminal with color highlighting depending on the logging level. The logger automatically records messages with timestamp and operating system.
 
 ![Stars](https://img.shields.io/github/stars/interl1nk/shellog?style=social)
 ![Shell](https://img.shields.io/badge/language-shell-blue.svg)
